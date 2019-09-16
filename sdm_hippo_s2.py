@@ -3,7 +3,7 @@ Run SDM (statistical disease mapping) pipeline on ADNI hippocampal surface data 
 Usage: python ./sdm_hippo_s2.py ./data/ ./result/left/ left 10 5
 
 Author: Rongjie Liu (rongjie.liu@rice.edu)
-Last update: 2018-2-28
+Last update: 2019-2-28
 """
 
 import sys

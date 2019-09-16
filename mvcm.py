@@ -2,7 +2,7 @@
 Local linear kernel smoothing on beta in MVCM.
 
 Author: Rongjie Liu (rongjie.liu@rice.edu)
-Last update: 2018-02-18
+Last update: 2019-02-18
 """
 
 import numpy as np

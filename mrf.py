@@ -1,7 +1,7 @@
 """
 Estimating the hidden variables, b_i(v), v = 1,2,..., num_vox, based on ICM algorithm
 Author: Rongjie Liu  (rongjie.liu@rice.edu)
-Last update: 2018-02-18
+Last update: 2019-02-18
 """
 
 import numpy as np
