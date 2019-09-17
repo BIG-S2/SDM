@@ -1,0 +1,1 @@
+The x.txt is 798*2 matrix. The first and second columns denote Gender and Age. The dx.txt indicates the dx information (0: normal and 1: patient). The subg.txt indicates the subgroup information for patients (0: early stage and 1: late stage).
